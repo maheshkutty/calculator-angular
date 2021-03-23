@@ -1,6 +1,16 @@
 # Calculator
 
+  * Simple Calculator program made using angular. 
+  * This is my first program made using angular. 
+  * Program is only for educational purpose.
+  
+Screenshot of program.
+
+![image](https://user-images.githubusercontent.com/39219085/112095408-73581200-8bc2-11eb-9f25-8dae39d0221a.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+  
 
 ## Development server
 
